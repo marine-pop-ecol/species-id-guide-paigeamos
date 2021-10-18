@@ -1,0 +1,221 @@
+---
+title: "Species ID Guide"
+author: "Paige Amos"
+date: "10/14/2021"
+output:
+    pdf_document:
+        includes:
+            in_header: file.tex
+---
+
+\newpage
+
+# *Lottia digitalis* (Ribbed limpet)
+
+## ID Features
+
+*Lottia digitalis*, or the ribbed limpet, can be identified by the prominent ridges running from the apex to the base of the shell (Cowles, 2005a). The ridges are most prominent on the posterior side of the shell, and the posterior shell margin is scalloped. The apex of the shell is close to the anterior of the limpet and may curve to overhang the anterior shell margin. These limpets can grow up to 3 cm in length, and the colour of the shell ranges from olive-green to brown, with white patches (White et al., 2014). 
+*L. digitalis* can be confused with several other limpet species, including *Lottia gigantea* and *Lottia pelta*, due to the similar colouration of these species (Cowles, 2005a). *L. pelta* is found throughout the same range as *L. digitalis*, and *L. gigantea* is found in the southern portion of the range (from northern California to Baja California, Mexico) (Cowles, 2004). However, these species can be distinguished by the position of the apex. For *L. pelta*, the apex is farther back and does not overhang the anterior margin. For *L. gigantea*, the apex is in a similar location to *L. digitalis*, but the posterior of the shell is higher than the apex.
+
+```{r lottia-digitalis, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Side (A) and top (B) views of the ribbed limpet. Photos show the shell apex (1), scalloped shell margins (2), and ridges (3).", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Lottia digitalis.png"))
+```
+
+\newpage
+
+```{r digitalis-morph, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Examples of morphological variation within the ribbed limpet species. Side (A) and top (B) views are shown.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "digitalis morph.png"))
+```
+
+## ID Questions
+
+See Figure 1 for examples of these features.
+
+1. Does the shell have prominent ridges?
+2. Is the apex located in the anterior quarter of the shell?
+3. Is the shell margin scalloped/wavy?
+
+If the answer to these three questions is YES then the species is *Lottia digitalis*.
+
+## Description
+
+*L. digitalis* ranges from the Aleutian Islands in Alaska to Baja California, Mexico (White et al., 2014). They are generally found in the high intertidal and supratidal zones in exposed rocky areas. These limpets often group together in cracks and crevices in the rock, but can also be found living on gooseneck barnacles (Harbo, 2011). *L. digitalis* is an important intertidal grazer. It uses its radula to scrape microscopic algae off of rocks (Cowles, 2005a). They are prey for seabirds such as gulls and black oystercatchers, and several fish species including surfperch and seaperch. *L. digitalis* is a dioecious species, with separate male and female individuals. Like most limpets, *L. digitalis* reproduces through broadcast spawning, in which eggs and sperm are released into the water. Fertilization occurs externally (Cowles, 2005a). 
+
+\newpage
+
+# *Lottia persona* (Masked limpet)(Old name: *Tectura persona*)
+
+## ID features
+
+*Lottia persona*, also known as the mask limpet, can be identified by its oval-shaped shell and forward-shifted apex (Fretwell et al., 2014). The shell has no prominent ridges and the posterior side of the shell has a convex (outwardly curved) slope, which gives the shell an inflated appearance (Fretwell et al. 2014). The shell has brown, greenish-brown or olive-green bands, with white or tan speckles throughout the shell. The interior of the shell is white with a distinctive brown blotch at the apex (Cowles, 2005c). The diameter of the shell can reach up to 5 cm, and its height is greater than 1/3 its width. In the field, *L. persona* can be mistaken for *Lottia scutum*, which also has a smooth shell and slightly off-centered apex. However, *L. scutum* has a much flatter shell, with its height less than 1/3 of its width.
+
+```{r lottia-persona, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Side (A) and top (B) views of the mask limpet. Photos show the shell apex (1), smooth shell margins (2), and rounded or inflated anterior of shell (3).", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "Lottia persona.png"))
+```
+
+\newpage
+
+```{r persona-morph, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Examples of morphological variation within the mask limpet species. Side (A) and top (B) views are shown.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "persona morph.png"))
+```
+
+## ID Questions
+
+See Figure 3 for examples of these features.
+
+1. Is the shell height greater than 1/3 its width?
+2. Does the shell appear rounded or inflated?
+3. Is the apex tilted towards the anterior margin of the shell?
+
+If the answer to these three questions is YES then the species is *Lottia persona*.
+
+## Description
+
+*L. persona* has a geographic range from Alaska to Isla Socoro, Mexico. It is usually found in the mid or high intertidal, where during the day individuals can hide in deep cracks or depressions. Further, this species can be found in areas where fresh water seepage can occur and in areas sheltered from wave action (Cowles, 2005c). During the night, *L. persona* will come out to graze on red and green microalgae (Everett, 2021). This species is preyed upon by crows and oystercatchers. Interestingly, it does not show an escape response to sea star presence (Fretwell et al., 2005). Similarly to other limpet species, *L. persona* are broadcast spawners, with fertilization and juvenile development occurring in the water column (Kolbin et al., 2011).
+
+\newpage
+
+# *Mytilus trossulus* (Pacific Blue Mussel)
+
+## ID Features
+
+*Mytilus trossulus*, commonly known as the Pacific blue mussel, is identifiable by its wedge-shaped shell valves, which are both similar in shape (Hiebert et al., 2016). The shell valves are relatively smooth and have concentric growth lines but no radial ridges. The periostracum, which is the thin organic outermost layer of the shell, is brown-black and shiny. This layer is most prominent at the posterior end of the shell, but is often eroded at the anterior end, which exposes the blue-violet exterior of the shell. The shell often has a white patch near the anterior end. *M. trossulus* shells are typically between 70 and 110 mm in length. *M. trossulus* can be confused with *Mytilus californianus* (California mussel). However, *M. californianus* has conspicuous radial ridges on its shell surface, while *M. trossulus* does not. *M. californianus* also can grow to be much larger than *M. trossulus* (Cowles, 2002;  Hiebert et al., 2016). The shell of *M. trossulus* is typically more wedge shaped than the shell of *M. californianus*, which is longer and narrower. There are other species in the genus *Mytilus*, but they are not found along the coast of Vancouver Island (Gaitán-Espitia et al., 2016).
+
+```{r mytilus trossulus, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Photo of a Pacific blue mussel. Note the smooth concentric growth rings (shown by the red arrow) and the wedge-shaped shell.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "m. trossulus.png"))
+```
+
+```{r m. trossulus diagram, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Diagrams of side (A) and front (B) views a Pacific blue mussel showing the anterior, posterior, ventral, and dorsal sides. The beaks and byssal threads are also shown.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "M. trossulus diagram.png"))
+```
+
+\newpage
+
+## ID Questions
+
+See Figure 5 and Figure 6 for examples of these features.
+
+1. Does the shell lack radial ridges?
+2. Does the shell have smooth concentric growth lines?
+3. Is the shell wedge-shaped?
+
+If the answer to these three questions is YES then the species is *Mytilus trossulus*.
+
+## Description
+
+*Mytilus trossulus* has a geographic range spanning from the north of San Francisco to the Arctic Ocean (Cowles, 2005b). *M. trossulus* can be found in the intertidal or as deep as 40 m subtidally in more sheltered areas (Hiebert et al., 2016). This species can live in mixed populations with *Mytilus californianus* and are in general highly adaptable, being able to live on rock, wood, firm mud or even fiberglass (Hiebert et al., 2016). Adult *M. trossulus* are filter feeders with a diet of organic detritus, zooplankton and phytoplankton. They create a continuous intake of water via ciliary currents and then feed selectively using mucus secretions or sheets that cover the gills (Hiebert et al., 2016). Reproduction of *M. trossulus* occurs through broadcast spawning (release of gametes into the water column) by separate male and female individuals, although hermaphroditism has also been observed. Fertilization occurs in the water column and juvenile *M. trossulus* are pelagic (Hiebert et al., 2016). *M. trossulus* are recognized as a foundation species that can affect communities and ecosystems, due to the way that they alter their habitats via the complexity of their beds. This species is also a major link between benthic and pelagic systems, because their filter feeding brings nutrients from the water column to benthic ecosystems. *M. trossulus* are also critical food sources for higher trophic levels and thus are important for energy transfer (Bodkin et al., 2018).  
+
+\newpage
+
+# *Mytilus californianus* (California Mussel)
+
+## ID Features
+
+*Mytilus californianus* (California mussel) can be identified by the strong radial lines that run along the length of the shell. This species also has irregular concentric growth lines (Mathieson et al., 2014). The outer layer of the shell (periostracum) is blue-ish black in colour, while the interior of the shell exhibits a lighter blue-grey with irregular iridescent patches (Mathieson et al., 2014). The mussel shell is thick and the anterior end is sharply pointed. The shells of these mussels can often appear highly eroded. The shell can grow up to 27 cm long (Cowles, 2002). In the field, the California mussel can be mistaken for *Mytilus trossulus*. *M. trossulus* usually has a smoother shell and is wider than *M. californianus* relative to its length. *M. trossulus* also does not grow as long as *M. californianus*.
+
+```{r mytilus californianus, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Photo of a California mussel. Note the radial lines (1) and irregular growth rings (2).", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "m. californianus.png"))
+```
+
+```{r m. californianus diagram, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Diagram of a California mussel with growth rings and radial lines labeled.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "M. californianus diagram.png"))
+```
+
+\newpage
+
+## ID Questions
+
+See Figure 7 and Figure 8 for examples of these features.
+
+1. Are the growth lines irregular?
+2. Are there radial lines running perpendicular to the mussel growth lines?
+3. Is the shell surface highly eroded?
+
+If the answer to these three questions is YES then the species is *Mytilus californianus*.
+
+## Description
+
+The current geographic location of *M. californianus* spans from the Aleutian Islands, Alaska to Baja California, Mexico (Cowles, 2002). They are known as an important facilitator species as their beds provide shelter for a large range of organisms. These beds are very dense, and they are thought to be the structural foundation of many intertidal marine communities. These bivalves are broadcast spawners, and fertilization occurs in the water column. The mussels then go through several larval stages and a juvenile stage before metamorphosing into the adult stage (Neal, 2014). Adult mussels then attach to substrate via their byssal threads, and become sessile. As adults, *M. californianus* are filter feeders (Neal, 2014). When submerged, the valves open and cilia are used to push water through gills. Planktonic bacteria and algae are then caught in mucus and sieved through the palp and are directed to the mouth (Neal, 2014).
+
+\newpage
+
+# Species Comparison
+
+```{r, message = FALSE, echo = FALSE, warning=FALSE}
+library(tidyverse)
+library(here)
+
+limpet_mussel_table = read_csv(here("./data/limpet-table-id.csv"))
+knitr::kable(limpet_mussel_table, caption = "Summary of limpet and mussel morphometrics.")
+```
+
+```{r, message=FALSE, echo=FALSE, warning=FALSE}
+limpet_table = read_csv(here("./data/limpet-table-ecology.csv"))
+knitr::kable(limpet_table, caption = "Summary of limpet and mussel ecology.")
+```
+
+```{r, echo = FALSE, fig.cap= "Shell length and width of three limpet species in the genus Lottia. Limpets were collected at Scott’s Bay, on the southwest coast of Vancouver Island.", message = FALSE, out.width = "70%", out.height = "70%"}
+
+library(tidyverse)
+
+ID_data <- read_csv('Species_ID_Measurements.csv')
+
+limpets <- ID_data %>% filter( Species == 'Lottia digitalis'| Species == 'Lottia persona' | 
+                                 Species == "Lottia scutum") %>% mutate(Apex_ratio = Apex_mm / Length_mm)
+mussels <-ID_data %>% select(!c(Apex_mm)) %>% filter(Species == 'Mytilus trossulus' | 
+                                                       Species == 'Mytilus californianus') %>%
+  mutate(Height_Width_ratio = Height_mm / Width_mm)
+  
+
+limpet_plot_1 = ggplot(data = limpets) +
+  geom_point(aes(x = Length_mm, y = Width_mm, fill = Species), 
+             colour = "black", 
+             size = 4, 
+             shape = 21) +
+  theme_grey() +
+  labs(x = "Limpet Length (mm)", y = "Limpet Width (mm)")
+limpet_plot_1
+```
+
+```{r, echo = FALSE, fig.cap= "Shell apex position for three limpet species in the genus Lottia, measured as the distance from the apex to the anterior shell margin divided by the total length of the limpet. Limpets were collected at Scott’s Bay, on the southwest coast of Vancouver Island.", message = FALSE, out.width = "70%", out.height = "70%"}
+
+limpet_plot_2 <- ggplot(data = limpets) + geom_boxplot(aes(x = Species, y = Apex_ratio, fill = Species), colour = "black")+
+  scale_color_grey() + theme_grey()+ labs(x = "Limpet Species", y = "Ratio of Apex Position to Total Length") + theme(legend.position = 'none') 
+limpet_plot_2
+```
+
+```{r mussel-measurements, fig.align = 'left', out.width = "80%", out.height = "60%", fig.cap = "Diagram of how mussel length, width, and height were measured.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "mussel measurements.png"))
+```
+
+```{r, echo = FALSE, fig.cap= "Shell length and width for two mussel species in the genus Mytilus. Mussels were collected at Scott’s Bay, on the southwest coast of Vancouver Island.", message = FALSE, out.width = "70%", out.height = "70%"}
+
+mussel_plot_1 = ggplot(data = mussels) +
+  geom_point(aes(x = Length_mm, y = Width_mm, fill = Species), 
+             colour = "black", 
+             size = 4, 
+             shape = 21) +
+  theme_grey( ) + scale_fill_brewer(palette="Dark2")+
+  labs(x = "Mussel Length (mm)", y = "Mussel Width (mm)")
+mussel_plot_1
+```
+
+```{r, echo = FALSE, fig.cap= "Ratio of shell width to height for two mussel species in the genus Mytilus. Mussels were collected at Scott’s Bay, on the southwest coast of Vancouver Island.", message = FALSE, out.width = "70%", out.height = "70%"}
+
+mussel_plot_2 <- ggplot(data = mussels) + geom_boxplot(aes(x = Species, y = Height_Width_ratio, fill = Species), colour = "black")+
+  scale_color_grey() + theme_grey()+ scale_fill_brewer(palette="Dark2")+ labs(x = "Mussel Species", y = "Height to Width Ratio")+ theme(legend.position = 'none')
+mussel_plot_2
+```
+
+```{r, echo = FALSE, fig.cap= "Shell valve length and height for two mussel species in the genus Mytilus. Mussels were collected at Scott’s Bay, on the southwest coast of Vancouver Island.", message = FALSE, out.width = "70%", out.height = "70%"}
+
+mussel_plot_3 = ggplot(data = mussels) +
+  geom_point(aes(x = Length_mm, y = Height_mm, fill = Species), 
+             colour = "black", 
+             size = 4, 
+             shape = 21) +
+  theme_grey( ) + scale_fill_brewer(palette="Dark2")+
+  labs(x = "Mussel Length (mm)", y = "Mussel Height (mm)")
+mussel_plot_3
+```
+

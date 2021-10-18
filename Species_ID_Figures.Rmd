@@ -1,0 +1,61 @@
+---
+title: "Species_ID_Figures"
+author: "Andrew"
+date: "16/10/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+
+ID_data <- read_csv('Species_ID_Measurements.csv')
+
+limpets <- ID_data %>% filter( Species == 'Lottia digitalis'| Species == 'Lottia persona' | 
+                                 Species == "Lottia scutum") %>% mutate(Apex_ratio = Apex_mm / Length_mm)
+mussels <-ID_data %>% select(!c(Apex_mm)) %>% filter(Species == 'Mytilus trossulus' | 
+                                                       Species == 'Mytilus californianus') %>%
+  mutate(Height_Width_ratio = Height_mm / Width_mm)
+  
+
+limpet_plot_1 = ggplot(data = limpets) +
+  geom_point(aes(x = Length_mm, y = Width_mm, fill = Species), 
+             colour = "black", 
+             size = 4, 
+             shape = 21) +
+  theme_grey() +
+  labs(x = "Limpet Length (mm)", y = "Limpet Width (mm)")
+limpet_plot_1
+
+limpet_plot_2 <- ggplot(data = limpets) + geom_boxplot(aes(x = Species, y = Apex_ratio, fill = Species), colour = "black")+
+  scale_color_grey() + theme_grey()+ labs(x = "Limpet Species", y = "Ratio of Apex Position to Total Length") + theme(legend.position = 'none') 
+limpet_plot_2
+                                                       
+mussel_plot_1 = ggplot(data = mussels) +
+  geom_point(aes(x = Length_mm, y = Width_mm, fill = Species), 
+             colour = "black", 
+             size = 4, 
+             shape = 21) +
+  theme_grey( ) + scale_fill_brewer(palette="Dark2")+
+  labs(x = "Mussel Length (mm)", y = "Mussel Width (mm)")
+mussel_plot_1
+
+mussel_plot_2 <- ggplot(data = mussels) + geom_boxplot(aes(x = Species, y = Height_Width_ratio, fill = Species), colour = "black")+
+  scale_color_grey() + theme_grey()+ scale_fill_brewer(palette="Dark2")+ labs(x = "Mussel Species", y = "Height to Width Ratio")+ theme(legend.position = 'none')
+mussel_plot_2
+
+mussel_plot_3 = ggplot(data = mussels) +
+  geom_point(aes(x = Length_mm, y = Height_mm, fill = Species), 
+             colour = "black", 
+             size = 4, 
+             shape = 21) +
+  theme_grey( ) + scale_fill_brewer(palette="Dark2")+
+  labs(x = "Mussel Length (mm)", y = "Mussel Height (mm)")
+mussel_plot_3
+```
+
