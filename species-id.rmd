@@ -219,3 +219,40 @@ mussel_plot_3 = ggplot(data = mussels) +
 mussel_plot_3
 ```
 
+\newpage
+
+# References
+
+Bodkin, J. L., Coletti, H. A., Ballachey, B. E., Monson, D. H., Esler, D., & Dean, T. A. (2018). Variation in abundance of Pacific blue mussel (Mytilus trossulus) in the Northern Gulf of Alaska, 2006–2015. *Deep Sea Research Part II: Topical Studies in Oceanography, 147*, 87-97. https://doi.org/10.1016/j.dsr2.2017.04.008
+
+Cowles. D. (2002). *Mytilus californianus (Conrad, 1837)*. Invertebrates of the Salish Sea. https://inverts.wallawalla.edu/Mollusca/Bivalvia/Mytiloida/Mytilidae/Mytilus_californianus.html
+
+Cowles, D. (2004). *Lottia gigantea Sowerby, 1834*. Invertebrates of the Salish Sea. https://inverts.wallawalla.edu/Mollusca/Gastropoda/Prosobranchia/Order_Patellogastropoda/Family_Lottiidae/Lottia_gigantea.html
+ 
+Cowles, D. (2005a). *Lottia digitalis (Rathke, 1833)*. Invertebrates of the Salish Sea. https://inverts.wallawalla.edu/Mollusca/Gastropoda/Prosobranchia/Order_Patellogastropoda/Family_Lottiidae/Lottia_digitalis.html
+
+Cowles, D. (2005b). *Mytilus trossulus Gould, 1850*. Invertebrates of the Salish Sea. https://inverts.wallawalla.edu/Mollusca/Bivalvia/Mytiloida/Mytilidae/Mytilus_trossulus.html
+
+Cowles, D. (2005c). *Tectura persona (Rathke, 1833)*. Invertebrates of the Salish Sea. 
+https://inverts.wallawalla.edu/Mollusca/Gastropoda/Prosobranchia/Order_Patellogastropoda/Family_Lottiidae/Tectura_persona.html
+
+Everett, A. (2021) *Intertidal Species in the Salish Sea*. 
+https://jsis.washington.edu/canada/wp-content/uploads/sites/20/2021/09/Intertidal-Species-in-Salish-Sea-Guide_reduced.pdf
+
+Gaitán-Espitia, J. D., Quintero-Galvis, J. F., Mesas, A. & D’Elía, G. (2016). Mitogenomics of southern hemisphere blue mussels (Bivalvia: Pteriomorphia): Insights into the evolutionary characteristics of the *Mytilus edulis* complex. *Scientific Reports 6*, 26853.
+
+Fretwell, K. & Starzomski, B. (2014). *Mask limpet, speckled limpet - Tectura persona, Lottia persona*. Biodiversity of the Central Coast. 
+https://www.centralcoastbiodiversity.org/mask-limpet-bull-tectura-persona.html
+
+Harbo, R. (2011). *Whelks to whales: Coastal marine life of the Pacific Northwest* (2nd ed.). Harbour Publishing Co. Ltd.
+
+Hiebert, T. C., Butler, B. A., & Shanks, A. L. (2016). *Oregon Estuarine Invertebrates: Rudy’s Illustrated Guide to Common Species* (3rd ed.). University of Oregon Libraries and Oregon Institute of Marine Biology.
+
+Kay, M. C., & Emlet, R. B. (2005). Laboratory spawning, larval development, and metamorphosis of the limpets *Lottia digitalis* and *Lottia asmi* (Patellogastropoda, Lottiidae). *Invertebrate Biology, 121*(1), 11-24. https://doi.org/10.1111/j.1744-7410.2002.tb00125.x
+
+Kolbin, K. G., & Kulikova, V. A. (2011). Reproduction and larval development of the limpet Lottia persona (Rathke, 1833)(Gastropoda: Lottiidae). *Russian Journal of Marine Biology, 37*(3), 239-242. https://doi.org/10.1134/S1063074011030072
+
+Neal, E. (2014). *Mytilus californianus*. Animal Diversity Web. https://animaldiversity.org/accounts/Mytilus_californianus/#economic_importance_negative 
+
+White, J., Fretwell, K., & Starzomski, B. (2014). *Ribbed limpet • Lottia digitalis*. Biodiversity of the Central Coast. https://www.centralcoastbiodiversity.org/ribbed-limpet-bull-lottia-digitalis.html
+
